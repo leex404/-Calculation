@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Calculation.cpp
+c:\users\leemi\desktop\cs_3.2\软件工程\第五次作业\calculation\calculation\calculation.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\leemi\desktop\cs_3.2\软件工程\第五次作业\calculation\calculation\calculation.cpp(154): warning C4018: “<”: 有符号/无符号不匹配
+  Calculation.vcxproj -> C:\Users\LeeMi\Desktop\CS_3.2\软件工程\第五次作业\Calculation\Debug\Calculation.exe
